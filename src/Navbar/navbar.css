@@ -1,0 +1,25 @@
+.header{
+  font-size: 25px;
+  font-weight: 800;
+  margin: 25px;
+}
+.me-auto a{
+  margin: 15px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+
+.line{
+    border: 1px solid;
+}
+.nav_link{
+  text-decoration: none;
+}
+.active{
+  background-color: #0d82c1;
+  color:white;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+}

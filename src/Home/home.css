@@ -1,0 +1,16 @@
+.home_wrapper{
+    width: 80%;
+    margin: auto;
+    /* background-color: aqua; */
+
+}
+.details{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    border: 1px solid black;
+    padding: 25px;
+}
+h3{
+    margin:10px 0;
+}

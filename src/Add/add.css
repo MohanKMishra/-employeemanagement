@@ -1,0 +1,26 @@
+.form{
+    width: 25%;
+    margin: auto;
+    margin-top: 5%;
+    
+}
+.name{
+    display: flex;
+    justify-content: space-between;    
+    margin: 15px;
+}
+.name label{
+    width: 150px;
+}
+input{
+    outline: none;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+.button{
+    background-color: #0d82c1;
+    width: 150px;
+    margin:15px 0px 0px 100px;
+}
